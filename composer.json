@@ -1,0 +1,17 @@
+{
+    "name": "iagos/migrations",
+    "autoload": {
+        "psr-4": {
+            "Iagos\\Migrations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iagosm",
+            "email": "iagosousa201486@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.16.0"
+    }
+}
